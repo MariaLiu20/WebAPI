@@ -14,7 +14,7 @@ To get started with the project, ensure you have the following requirements:
 
 To run the application, use the following command:
 
-dotnet run --project WebAPI
+```dotnet run --project WebAPI```
 
 ### Common Endpoints
 
