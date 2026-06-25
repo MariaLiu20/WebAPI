@@ -53,7 +53,7 @@ namespace WebAPI.Controllers
             try
             {
                 DataTable table = new DataTable();
-                string query = @"INSERT INTO dbo.Employees (EmployeeName, Employee, MailID, DOJ) values 
+                string query = @"INSERT INTO dbo.Employees (EmployeeName, Department, MailID, DOJ) values 
                 ('" + emp.EmployeeName + @"',
                 '" + emp.Department + @"',
                 '" + emp.MailID + @"',
