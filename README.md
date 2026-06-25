@@ -1,5 +1,3 @@
-Here’s an improved version of the README.md file that incorporates the new content while maintaining a coherent structure:
-
 # WebAPI
 
 This repository contains a .NET 8 Razor Pages project that exposes a simple Department API.
@@ -20,11 +18,11 @@ To run the application, use the following command:
 
 The API provides several endpoints for managing departments:
 
-- `GET /api/Department` — List all departments
-- `GET /api/Department/{id}` — Retrieve a specific department by ID
-- `POST /api/Department` — Create a new department
-- `PUT /api/Department/{id}` — Update an existing department by ID
-- `DELETE /api/Department/{id}` — Delete a department by ID
+- `GET /api/Department` â€” List all departments
+- `GET /api/Department/{id}` â€” Retrieve a specific department by ID
+- `POST /api/Department` â€” Create a new department
+- `PUT /api/Department/{id}` â€” Update an existing department by ID
+- `DELETE /api/Department/{id}` â€” Delete a department by ID
 
 ## Security Note
 
